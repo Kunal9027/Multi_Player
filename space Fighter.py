@@ -120,6 +120,7 @@ all_sprites.add(enemy_8)
 all_sprites.add(enemy_9)
 all_sprites.add(enemy_10)
 
+
 #________PLAYER_______#
 
 #______1st______#
@@ -248,4 +249,7 @@ while runing:
     PLAYER_2_BULLET(RED_bullets)
    
     pygame.display.flip()
+
+
+
 
